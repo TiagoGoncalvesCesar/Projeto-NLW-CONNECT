@@ -2,6 +2,7 @@ NLW CONNECT - CodeCraft Summit 2025
 ![NLW CONNECT](icon/NLW%20CONNECT.png)
 
 
+
 Descrição:
 
 Este é um projeto de uma página de inscrição para o evento CodeCraft Summit 2025, onde os usuários podem se registrar e convidar outras pessoas para participarem. O site conta com um sistema de indicação, que rastreia os participantes referenciados por cada inscrito.
