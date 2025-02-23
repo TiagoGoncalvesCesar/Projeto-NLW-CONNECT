@@ -1,15 +1,6 @@
 NLW CONNECT - CodeCraft Summit 2025
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NLW CONNECT</title>
-</head>
-<body>
-    <img src="icon/NLW CONNECT.png" alt="NLW CONNECT">
-</body>
-</html>
+![NLW CONNECT](icon/NLW%20CONNECT.png)
+
 
 Descrição:
 
