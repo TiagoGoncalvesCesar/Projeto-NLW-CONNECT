@@ -62,4 +62,4 @@ Contato
 
 Caso tenha dúvidas ou sugestões, entre em contato.
 
-Autor:Tiago Gonçalves Cesar
+
