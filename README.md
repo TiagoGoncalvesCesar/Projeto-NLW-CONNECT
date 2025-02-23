@@ -1,5 +1,15 @@
 NLW CONNECT - CodeCraft Summit 2025
- <img align="center" alt="HTML5" height="30" width="40" src="[[https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg](http://127.0.0.1:5501/index.html)](http://127.0.0.1:5501/index.html)">
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NLW CONNECT</title>
+</head>
+<body>
+    <img src="icon/NLW CONNECT.png" alt="NLW CONNECT">
+</body>
+</html>
 
 Descrição:
 
