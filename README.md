@@ -1,5 +1,5 @@
 NLW CONNECT - CodeCraft Summit 2025
-![NLW CONNECT](icon/NLW%20CONNECT.png)
+
 
 
 
